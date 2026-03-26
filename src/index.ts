@@ -208,7 +208,3 @@ const consultaConfirmada4 = confirmarConsulta(consulta4);
 console.log("=== CONSULTA CONFIRMADA ===");
 console.log(exibirConsulta(consultaConfirmada4));
 
-// Cancelando a Segunda Consulta
-//console.log(" CANCELANDO A SEGUNDA CONSULTA")
-//const consulta2Cancel = cancelarConsulta(consulta2)
-//console.log(consulta2Cancel)
